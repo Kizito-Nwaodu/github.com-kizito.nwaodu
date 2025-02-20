@@ -7,7 +7,7 @@
 ### 🛠 Technical Expertise  
 🔹 **Microsoft 365 Administration** – Exchange Online, Microsoft Purview, Microsoft Intune, Microsoft Defender XDR, Entra ID  
 🔹 **Azure** – Subscription & Billing Management, Identity & Access Management, Virtual Machines  
-🔹 **Cybersecurity** – Compliance, Information Protection, Email Security, Security Policies, Endpoint Management  
+🔹 **Cybersecurity** – Compliance, Information Protection, Security Policies  
 
 ### 🎓 Certifications  
 ✔ **Microsoft Certified: Microsoft 365 Administrator Expert (2025)**  
@@ -16,15 +16,31 @@
 ✔ **ISC2: Certified in Cybersecurity (2024)**  
 ✔ **Microsoft Certified: Azure Fundamentals (2023)**  
 
-#### **Microsoft Applied Skills**  
-✔ Prepare security and compliance to support Microsoft 365 Copilot  
-✔ Defend against cyberthreats with Microsoft Defender XDR  
-✔ Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview  
-✔ Implement information protection and data loss prevention by using Microsoft Purview  
-✔ Deploy and administer Linux virtual machines on Microsoft Azure  
-✔ Administer Active Directory Domain Services  
-✔ Secure storage for Azure Files and Azure Blob Storage  
-✔ Deploy and configure Azure Monitor  
+### **Microsoft Applied Skills**  
+✔ **Prepare security and compliance to support Microsoft 365 Copilot**    
+🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/KizitoNwaodu-2841/5E159A0823995F21?sharingId=84B8F921BE9B4E6A)  
+
+✔ **Defend against cyberthreats with Microsoft Defender XDR**    
+🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/KizitoNwaodu-2841/B51ECA2DCA5A8F7C?sharingId=84B8F921BE9B4E6A)  
+
+✔ **Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview**  
+🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/KizitoNwaodu-2841/379E9A21C0690F89?sharingId=84B8F921BE9B4E6A)  
+
+✔ **Implement information protection and data loss prevention by using Microsoft Purview**   
+🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/KizitoNwaodu-2841/E5DB27E61F78C4E7?sharingId=84B8F921BE9B4E6A)  
+
+✔ **Deploy and administer Linux virtual machines on Microsoft Azure**   
+🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/KizitoNwaodu-2841/7943C1608C86A26C?sharingId=84B8F921BE9B4E6A)  
+
+✔ **Administer Active Directory Domain Services**   
+🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/KizitoNwaodu-2841/6A5383A375862EF6?sharingId=84B8F921BE9B4E6A)  
+
+✔ **Secure storage for Azure Files and Azure Blob Storage**   
+🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/KizitoNwaodu-2841/229854C43D1A12A5?sharingId=84B8F921BE9B4E6A)  
+
+✔ **Deploy and configure Azure Monitor**   
+🔗 [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/KizitoNwaodu-2841/F2CE271F5EFE7C5B?sharingId=84B8F921BE9B4E6A)  
+ 
 
 ### 💡 Projects & Hands-on Experience  
 🔹 **Active Directory & Entra ID** – Administered ADDS, managing users, groups, and Group Policy Objects for secure authentication.  
