@@ -20,7 +20,7 @@
 
 ✔- ISC2: Certified in Cybersecurity (2024)
 
-✔ Microsoft Certified: Azure Fundamentals  
+✔ Microsoft Certified: Azure Fundamentals (2023)
 
 
 💡 **Projects & Hands-on Experience**:  
