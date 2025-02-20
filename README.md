@@ -23,6 +23,21 @@
 
 ✔ Microsoft Certified: Azure Fundamentals (2023)
 
+✔ Microsoft Applied Skills: Prepare security and compliance to support Microsoft 365 Copilot
+
+✔ Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR
+
+✔ Microsoft Applied Skills: Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview
+
+✔ Microsoft Applied Skills: Implement information protection and data loss prevention by using Microsoft Purview
+
+✔ Microsoft Applied Skills: Deploy and administer Linux virtual machines on Microsoft Azure
+
+✔ Microsoft Applied Skills: Administer Active Directory Domain Services
+
+✔ Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage
+
+✔ Microsoft Applied Skills: Deploy and configure Azure Monitor
 
 
 💡 **Projects & Hands-on Experience**:  
