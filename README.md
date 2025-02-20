@@ -10,6 +10,7 @@
 
 🔹 **Cybersecurity** – Compliance, Information Protection, Security Policies  
 
+
 🎓 **Certifications**:  
 ✔ Microsoft Certified: Microsoft 365 Administrator Expert (2025) 
 
