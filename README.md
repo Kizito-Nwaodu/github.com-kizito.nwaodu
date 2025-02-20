@@ -6,7 +6,7 @@
 
 ### 🛠 Technical Expertise  
 🔹 **Microsoft 365 Administration** – Exchange Online, Microsoft Purview, Microsoft Intune, Microsoft Defender XDR, Entra ID  
-🔹 **Azure** – Subscription & Billing Management, Identity & Access Management, Compute & Storage, Compliance, Cost Mnagament & Optimisation, Automation & Monitoring  
+🔹 **Azure** – Subscription & Billing Management, Identity & Access Management, Compute & Storage, Compliance, Cost Managament & Optimisation, Automation & Monitoring  
 🔹 **Cybersecurity** – Compliance, Information Protection, Security Policies, Email Security, Endpoint Detection and Response
 
 ### 🎓 Certifications  
