@@ -59,11 +59,11 @@
 
 
 #### Tools & Technologies
-- **Infrastructure**: PowerShell, Azure CLI, ARM Templates
-- **Security**: Microsoft Defender for Endpoint, Microsoft Defender for Office 365, Entra Internet Access,
-- **Monitoring**: Azure Monitor, Log Analytics
-- **Automation**: Azure Automation, PowerShell Scripting
-- **Compliance**: DLP, Information Protection, eDiscovery, Information Barrier, Communication Compliance, Insider Risk Management
+🔹 **Infrastructure**: PowerShell, Azure CLI, ARM Templates
+🔹 **Security**: Microsoft Defender for Endpoint, Microsoft Defender for Office 365, Entra Internet Access,
+🔹 **Monitoring**: Azure Monitor, Log Analytics
+🔹 **Automation**: Azure Automation, PowerShell Scripting
+🔹 **Compliance**: DLP, Information Protection, eDiscovery, Information Barrier, Communication Compliance, Insider Risk Management
 
 
 ### 📫 Connect with me  
