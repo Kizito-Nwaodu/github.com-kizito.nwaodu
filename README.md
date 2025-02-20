@@ -12,9 +12,13 @@
 
 🎓 **Certifications**:  
 ✔ Microsoft Certified: Microsoft 365 Administrator Expert (2025) 
+
 ✔ Microsoft Certified: Information Protection and Compliance Administrator Associate (2024)
+
 ✔ Microsoft Certified: Identity and Access Administrator Associate (2024)
+
 ✔- ISC2: Certified in Cybersecurity (2024)
+
 ✔ Microsoft Certified: Azure Fundamentals  
 
 
