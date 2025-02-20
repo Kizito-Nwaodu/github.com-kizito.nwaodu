@@ -3,8 +3,11 @@
 ## Microsoft 365 | Azure | Cybersecurity  
 
 🌟 **5+ years of experience** in customer service, technical support, and cloud solutions  
+
 🔹 **Microsoft 365 Administration** – Exchange Online, Microsoft Purview, Microsoft Intune, Microsoft Defender XDR, Entra ID
+
 🔹 **Azure** – Subscription & Billing Management, Identity & Access Management, Virtual Machines  
+
 🔹 **Cybersecurity** – Compliance, Information Protection, Security Policies  
 
 🎓 **Certifications**:  
