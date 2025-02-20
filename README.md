@@ -12,6 +12,7 @@
 
 
 
+
 🎓 **Certifications**:  
 ✔ Microsoft Certified: Microsoft 365 Administrator Expert (2025) 
 
@@ -38,6 +39,8 @@
 ✔ Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage
 
 ✔ Microsoft Applied Skills: Deploy and configure Azure Monitor
+
+
 
 
 💡 **Projects & Hands-on Experience**:  
