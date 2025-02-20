@@ -1,4 +1,4 @@
-# Hi, I'm Kizito Nwaodu 👋  
+# Hi, I am Kizito Nwaodu 👋  
 
 ## Microsoft 365 | Azure | Cybersecurity  
 
