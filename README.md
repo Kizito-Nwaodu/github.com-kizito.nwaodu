@@ -60,5 +60,5 @@ security.
 
 
 📫 **Connect with me**:  
-https//www.linkedin.com/in/kizitonwaodu | kizitonwaodu@gmail.com 
+www.linkedin.com/in/kizitonwaodu | kizitonwaodu@gmail.com 
 
