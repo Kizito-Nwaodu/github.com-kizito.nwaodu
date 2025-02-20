@@ -11,6 +11,7 @@
 🔹 **Cybersecurity** – Compliance, Information Protection, Security Policies  
 
 
+
 🎓 **Certifications**:  
 ✔ Microsoft Certified: Microsoft 365 Administrator Expert (2025) 
 
@@ -23,8 +24,8 @@
 ✔ Microsoft Certified: Azure Fundamentals (2023)
 
 
-💡 **Projects & Hands-on Experience**:  
 
+💡 **Projects & Hands-on Experience**:  
 🔹 Administered Directory Domain services, managing users, groups, Group Policy Objects, and ensuring secure
 authentication and authorization.
 
@@ -65,6 +66,7 @@ my ability to configure and deploy DLP policies effectively.
 security.
 
 🔹 Completed the Email Analysis challenge on LetsDefend.io: Analyzed email headers to trace the origin ofemails, identify spoofing attempts, and detect potential security threats showcasing expertise in email forensics and threat analysis.
+
 
 
 📫 **Connect with me**:  
