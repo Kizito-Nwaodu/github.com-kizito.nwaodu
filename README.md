@@ -4,89 +4,43 @@
 
 🌟 **5+ years of experience** in customer service, technical support, and cloud solutions  
 
-🔹 **Microsoft 365 Administration** – Exchange Online, Microsoft Purview, Microsoft Intune, Microsoft Defender XDR, Entra ID
-
+### 🛠 Technical Expertise  
+🔹 **Microsoft 365 Administration** – Exchange Online, Microsoft Purview, Microsoft Intune, Microsoft Defender XDR, Entra ID  
 🔹 **Azure** – Subscription & Billing Management, Identity & Access Management, Virtual Machines  
-
 🔹 **Cybersecurity** – Compliance, Information Protection, Security Policies  
 
+### 🎓 Certifications  
+✔ **Microsoft Certified: Microsoft 365 Administrator Expert (2025)**  
+✔ **Microsoft Certified: Information Protection and Compliance Administrator Associate (2024)**  
+✔ **Microsoft Certified: Identity and Access Administrator Associate (2024)**  
+✔ **ISC2: Certified in Cybersecurity (2024)**  
+✔ **Microsoft Certified: Azure Fundamentals (2023)**  
 
+#### **Microsoft Applied Skills**  
+✔ Prepare security and compliance to support Microsoft 365 Copilot  
+✔ Defend against cyberthreats with Microsoft Defender XDR  
+✔ Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview  
+✔ Implement information protection and data loss prevention by using Microsoft Purview  
+✔ Deploy and administer Linux virtual machines on Microsoft Azure  
+✔ Administer Active Directory Domain Services  
+✔ Secure storage for Azure Files and Azure Blob Storage  
+✔ Deploy and configure Azure Monitor  
 
+### 💡 Projects & Hands-on Experience  
+🔹 **Active Directory & Entra ID** – Administered ADDS, managing users, groups, and Group Policy Objects for secure authentication.  
+🔹 **Microsoft Entra Internet Access** – Configured & deployed on test BYOD using Microsoft Intune.  
+🔹 **Azure VM & IIS** – Installed and managed IIS on Azure VM for cloud-based web hosting.  
+🔹 **Azure Resource Protection** – Implemented resource locks on critical Azure resources, preventing accidental deletions.  
+🔹 **Azure Cost Optimization** – Developed Azure Policies to restrict VM deployment to specific SKUs for cost control.  
+🔹 **Privileged Identity Management (PIM)** – Configured PIM for least privilege access in critical environments.  
+🔹 **Azure Storage Security** – Configured encrypted storage and optimized lifecycle policies for data protection.  
+🔹 **Azure Monitor & Security Alerts** – Deployed Azure Monitor and set up proactive alerts for security and infrastructure health.  
+🔹 **Account Lockout Policies** – Implemented Entra ID lockout policies to mitigate brute-force attack risks.  
+🔹 **Phishing Simulations** – Designed and executed phishing attack scenarios using Microsoft Attack Simulation.  
+🔹 **Data Loss Prevention (DLP)** – Designed and implemented DLP & Endpoint DLP policies for sensitive data protection.  
+🔹 **Defender for Endpoint** – Configured Defender for Endpoint to improve real-time threat monitoring and response.  
+🔹 **Email Security & Threat Analysis** – Completed phishing and email header analysis challenges on LetsDefend.io.  
 
-🎓 **Certifications**:  
-✔ Microsoft Certified: Microsoft 365 Administrator Expert (2025) 
-
-✔ Microsoft Certified: Information Protection and Compliance Administrator Associate (2024)
-
-✔ Microsoft Certified: Identity and Access Administrator Associate (2024)
-
-✔- ISC2: Certified in Cybersecurity (2024)
-
-✔ Microsoft Certified: Azure Fundamentals (2023)
-
-✔ Microsoft Applied Skills: Prepare security and compliance to support Microsoft 365 Copilot
-
-✔ Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR
-
-✔ Microsoft Applied Skills: Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview
-
-✔ Microsoft Applied Skills: Implement information protection and data loss prevention by using Microsoft Purview
-
-✔ Microsoft Applied Skills: Deploy and administer Linux virtual machines on Microsoft Azure
-
-✔ Microsoft Applied Skills: Administer Active Directory Domain Services
-
-✔ Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage
-
-✔ Microsoft Applied Skills: Deploy and configure Azure Monitor
-
-
-
-
-💡 **Projects & Hands-on Experience**:  
-🔹 Administered Directory Domain services, managing users, groups, Group Policy Objects, and ensuring secure
-authentication and authorization.
-
-🔹 Configured and deployed and Microsoft Entra Internate Acces using Microsoft Intune on test BYOD.
-
-🔹 Installed and managed Internet Information Services on Azure VM, demonstrating proficiency in cloud computing, web
-hosting and application deployment.
-
-🔹 Implemented resource locks on simulated critical Azure resource groups, protecting virtual machines storage accounts
-from accidental deletions and unauthorized modifications. This project reinforced my knowledge of Azure resource
-management and data protections strategies.
-
-🔹 Developed and implemented Azure Policies to restrict virtual machine deployment to approved SKUs(D2s_v4),
-simulating real-world cost optimization and standardization. This project showcased my ability to use Azure Policies to
-enforce compliance and manage cloud resources effectively.
-
-🔹 Implemented Privileged Identity Management roles to secure administrative access to stimulated critical resources,
-enforcing least privilege access control. This project reinforced my understanding of IAM principles and best practices.
-
-🔹 Configured encrypted simulated storage and optimized lifecycle policies, ensuring encryption for data-at-rest and
-reducing storage expenses.
-
-🔹 Deployed Azure monitor and set up custom alerts for proactive issue detection, enabling rapid response to potential
-security threats and infrastructure issues in a simulated production environment. 
-
-🔹 Implemented an account lockout policy on Entra ID, simulating various attack scenarios. This project demonstrated my understanding of Entra ID security features and access control, effectively mitigating
-simulated brute force attacks.
-
-🔹 Designed, deployed and managed simulated phishing and other social engineering attacks using Microsoft Attack Simulation. This project assessed user vulnerability and identified areas of weakness
-leading to targeted security awareness training recommendations.
-
-🔹 Designed and Implemented Data Loss Prevention and Endpoint DLP policies, protecting simulated sensitive data (PII, financial data) from unauthorized access or exfiltration. This project demonstrated
-my ability to configure and deploy DLP policies effectively.
-
-🔹 Configured Defender for Endpoint to monitor and respond to simulated threats, improving endpoint security posture and enabling proactive threat detection and response. This included configuring realtime protection and attack surface reduction rules.
-
-🔹 Completed the Phishing Email challenge on LetsDefend.io: Analyzed phishing emails to identify malicious content, links and attachments, demonstrating practical skills in phishing detection and email
-security.
-
-🔹 Completed the Email Analysis challenge on LetsDefend.io: Analyzed email headers to trace the origin ofemails, identify spoofing attempts, and detect potential security threats showcasing expertise in email forensics and threat analysis.
-
-
-
-📫 **Connect with me**:  
-www.linkedin.com/in/kizitonwaodu | kizitonwaodu@gmail.com 
-
+### 📫 Connect with me  
+🌐 [LinkedIn](https://www.linkedin.com/in/kizitonwaodu)  
+📧 **Email:** kizitonwaodu@gmail.com  
