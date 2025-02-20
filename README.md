@@ -57,6 +57,15 @@
 🔹 **Defender for Endpoint** – Configured Defender for Endpoint to improve real-time threat monitoring and response.  
 🔹 **Email Security & Threat Analysis** – Completed phishing and email header analysis challenges on LetsDefend.io.  
 
+
+#### Tools & Technologies
+- **Infrastructure**: PowerShell, Azure CLI, ARM Templates
+- **Security**: Microsoft Defender for Endpoint, Microsoft Defender for Office 365, Entra Internet Access,
+- **Monitoring**: Azure Monitor, Log Analytics
+- **Automation**: Azure Automation, PowerShell Scripting
+- **Compliance**: DLP, Information Protection, eDiscovery, Information Barrier, Communication Compliance, Insider Risk Management
+
+
 ### 📫 Connect with me  
 🌐 [LinkedIn](https://www.linkedin.com/in/kizitonwaodu)  
 📧 **Email:** kizitonwaodu@gmail.com  
