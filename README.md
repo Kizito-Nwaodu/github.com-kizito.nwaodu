@@ -43,19 +43,24 @@
  
 
 ### 💡 Projects & Hands-on Experience  
-🔹 **Active Directory & Entra ID** – Administered ADDS, managing users, groups, and Group Policy Objects for secure authentication. 
-🔹 **Microsoft Entra Internet Access** – Configured & deployed on test BYOD using Microsoft Intune.  
-🔹 **Azure VM & IIS** – Installed and managed IIS on Azure VM for cloud-based web hosting.  
-🔹 **Azure Resource Protection** – Implemented resource locks on critical Azure resources, preventing accidental deletions.  
-🔹 **Azure Cost Optimization** – Developed Azure Policies to restrict VM deployment to specific SKUs for cost control.  
-🔹 **Privileged Identity Management (PIM)** – Configured PIM for least privilege access in critical environments.  
-🔹 **Azure Storage Security** – Configured encrypted storage and optimized lifecycle policies for data protection.  
-🔹 **Azure Monitor & Security Alerts** – Deployed Azure Monitor and set up proactive alerts for security and infrastructure health.  
-🔹 **Account Lockout Policies** – Implemented Entra ID lockout policies to mitigate brute-force attack risks.  
-🔹 **Phishing Simulations** – Designed and executed phishing attack scenarios using Microsoft Attack Simulation.  
-🔹 **Data Loss Prevention (DLP)** – Designed and implemented DLP & Endpoint DLP policies for sensitive data protection.  
-🔹 **Defender for Endpoint** – Configured Defender for Endpoint to improve real-time threat monitoring and response.  
-🔹 **Email Security & Threat Analysis** – Completed phishing and email header analysis challenges on LetsDefend.io.  
+🔹 **Identity & Access Management**  
+- **Active Directory & Entra ID** – Administered ADDS, managing users, groups, and Group Policy Objects for secure authentication.  
+- **Microsoft Entra Internet Access** – Configured & deployed on test BYOD using Microsoft Intune.  
+- **Privileged Identity Management (PIM)** – Configured PIM for least privilege access in critical environments.  
+- **Account Lockout Policies** – Implemented Entra ID lockout policies to mitigate brute-force attacks.  
+
+🔹 **Azure Infrastructure & Security**  
+- **Azure VM & IIS** – Installed and managed IIS on Azure VM for cloud-based web hosting.  
+- **Azure Resource Protection** – Implemented resource locks on critical Azure resources to prevent accidental deletions.  
+- **Azure Cost Optimization** – Developed Azure Policies to restrict VM deployment to specific SKUs for cost control.  
+- **Azure Storage Security** – Configured encrypted storage and optimized lifecycle policies for data protection.  
+- **Azure Monitor & Security Alerts** – Deployed Azure Monitor and set up proactive alerts for security and infrastructure health.  
+
+🔹 **Security & Threat Protection**  
+- **Phishing Simulations** – Designed and executed phishing attack scenarios using Microsoft Attack Simulation.  
+- **Data Loss Prevention (DLP)** – Designed and implemented DLP & Endpoint DLP policies for sensitive data protection.  
+- **Defender for Endpoint** – Configured Defender for Endpoint to improve real-time threat monitoring and response.  
+- **Email Security & Threat Analysis** – Completed phishing and email header analysis challenges on LetsDefend.io.  
 
 
 ## 🛠 Tools & Technologies  
