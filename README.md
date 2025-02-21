@@ -58,12 +58,14 @@
 🔹 **Email Security & Threat Analysis** – Completed phishing and email header analysis challenges on LetsDefend.io.  
 
 
-#### Tools & Technologies
-🔹 **Infrastructure**: PowerShell, Azure CLI, ARM Templates.
-🔹 **Security**: Microsoft Defender for Endpoint, Microsoft Defender for Office 365, Global Secure Access.
-🔹 **Monitoring**: Azure Monitor, Log Analytics.
-🔹 **Automation**: Azure Automation, PowerShell Scripting.
-🔹 **Compliance**: DLP, Information Protection, eDiscovery, Information Barrier, Communication Compliance, Insider Risk Management.
+## 🛠 Tools & Technologies  
+🛠 **Infrastructure:** PowerShell, Azure CLI, ARM Templates  
+💾 **Storage & Backup:** Azure Storage Explorer, Azure Backup, Azure Key Vault  
+🔐 **Security:** Microsoft Defender for Endpoint, Microsoft Defender for Office 365, Global Secure Access  
+📊 **Monitoring:** Azure Monitor, Log Analytics  
+⚙️ **Automation:** Azure Automation, PowerShell Scripting  
+📜 **Compliance:** DLP, Information Protection, eDiscovery, Information Barrier, Communication Compliance, Insider Risk Management  
+
 
 
 ### 📫 Connect with me  
