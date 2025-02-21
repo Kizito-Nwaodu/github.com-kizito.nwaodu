@@ -43,7 +43,7 @@
  
 
 ### 💡 Projects & Hands-on Experience  
-🔹 **Active Directory & Entra ID** – Administered ADDS, managing users, groups, and Group Policy Objects for secure authentication.
+🔹 **Active Directory & Entra ID** – Administered ADDS, managing users, groups, and Group Policy Objects for secure authentication. 
 🔹 **Microsoft Entra Internet Access** – Configured & deployed on test BYOD using Microsoft Intune.  
 🔹 **Azure VM & IIS** – Installed and managed IIS on Azure VM for cloud-based web hosting.  
 🔹 **Azure Resource Protection** – Implemented resource locks on critical Azure resources, preventing accidental deletions.  
